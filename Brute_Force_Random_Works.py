@@ -1,0 +1,3 @@
+import random #Importando a biblioteca aleatório
+while (True): #Vai rodar pra sempre e não vai parar...
+    print(random.randint(0,9999)) #vai printar os números na range, e não vai parar por estar dentro do while true
